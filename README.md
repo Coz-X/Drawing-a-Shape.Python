@@ -1,1 +1,1 @@
-Drawing a shape using Python.
+Drawing a shape in Python.
